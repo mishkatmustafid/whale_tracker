@@ -1,13 +1,13 @@
 {
   "name": "whale_tracker",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "gregory@dappuniversity.com",
-  "license": "ISC",
+  "author": "Mishkat Mustafid",
+  "license": "MIT",
   "dependencies": {
     "ethers": "^5.6.9",
     "play-sound": "^1.1.5"
